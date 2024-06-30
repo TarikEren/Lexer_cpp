@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/better_lexer.dir/main.cpp.o CMakeFiles/better_lexer.dir/sources/lexer.cpp.o CMakeFiles/better_lexer.dir/sources/error.cpp.o -o better_lexer 
